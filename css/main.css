@@ -322,7 +322,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 3rem;
+    font-size: 1.75rem;
     text-align: center;
 }
 .content-1 {
@@ -344,6 +344,7 @@ p {
 .controls .arrow {
     position: absolute;
     top: 50%;
+    font-size: 1.5rem;
     transform: translateY(-50%);
     cursor: pointer;
 }
